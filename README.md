@@ -34,11 +34,11 @@ ans =
 
      1     2     3     4     5
 ```
-Una vez que obtenemos los numero del 1 al `n`, los elevamos al cuadrado usando `.^` (el . denota aplicar la opearion ^ a cada elemento)
+Una vez que obtenemos los numero del 1 al `n`, los elevamos al cuadrado usando `.^` (el . denota aplicar la operacion ^ a cada elemento)
 ```
 out = (1:n).^2
 ```
-llamaremos out a nuestra variable intermediaria. Ahora que tenemos los cuadrados de 1, 4, 9 a `n^2`, aplicamos los inversos de la misma manera con `./`
+llamaremos `out` a nuestra variable resultado. Ahora que tenemos los cuadrados de 1, 4, 9 a `n^2`, aplicamos los inversos de la misma manera con `./`
 ```
 out = 1../(1:n).^2
 ```
