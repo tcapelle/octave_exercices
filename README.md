@@ -1,7 +1,3 @@
-# octave_exercices
-Solution exercices Agustin
-
-
 # Solucion EX1
 Para resolver el primer problema es necesario entender la division entera `mod(n,i)`.
 Esta funcion lo que hace es entregar el resto de dividir n por i. Si el resto de una division es cero, entonces n es divisible por i.
