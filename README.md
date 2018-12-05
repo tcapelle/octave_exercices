@@ -21,7 +21,7 @@ En la variable divs entregaremos los divisores, por lo tanto
 ```
 
 # Solucion EX2
-En este problem nos piden calcular la forumla de [Basel](https://en.wikipedia.org/wiki/Basel_problem) para aproximar `pi^2/6`
+En este problem nos piden calcular la formula de [Basel](https://en.wikipedia.org/wiki/Basel_problem) para aproximar `pi^2/6`
 Procedemos como antes, primero necesitamos los numero desde el `1,2,...,n`, esto en octave se obtiene con:
 ```
 1:n
