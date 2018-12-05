@@ -13,6 +13,12 @@ Pero en el problema ademas nos piden de solo entregar los divisores impares, por
 ```
   if mod(n,i)==0 && mod(i,2)==1
 ```
+En la variable divs entregaremos los divisores, por lo tanto
+```
+  if mod(n,i)==0 && mod(i,2)==1
+  divs(k) = i
+  k = k+1
+```
 
 # Solucion EX2
 En este problem nos piden calcular la forumla de [Basel](https://en.wikipedia.org/wiki/Basel_problem) para aproximar `pi^2/6`
