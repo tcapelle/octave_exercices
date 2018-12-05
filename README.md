@@ -19,7 +19,7 @@ Pero en el problema ademas nos piden de solo entregar los divisores impares, por
 ```
 
 # Solucion EX2
-En este problem nos piden calcular la forumla de (Basel)[https://en.wikipedia.org/wiki/Basel_problem] para aproximar `pi^2/6`
+En este problem nos piden calcular la forumla de [Basel](https://en.wikipedia.org/wiki/Basel_problem) para aproximar `pi^2/6`
 Procedemos como antes, primero necesitamos los numero desde el `1,2,...,n`, esto en octave se obtiene con:
 ```
 1:n
